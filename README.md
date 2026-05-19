@@ -1,206 +1,124 @@
 <!-- ========================================= -->
-<!--                HEADER                    -->
+<!--              ONE PIECE STYLE             -->
 <!-- ========================================= -->
 
-<h1 align="center">Hi 👋, I'm Mariam Fahim</h1>
+<h1 align="center">🏴‍☠️ Mariam Fahim</h1>
 
 <h3 align="center">
-Software Engineering Student • AI & Full Stack Enthusiast • Innovation Builder
+⚡ Software Engineering Student • AI Explorer • Full Stack Developer ⚡
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer;Building+Smart+Digital+Solutions;Flutter+%7C+React+%7C+Node.js+%7C+AI;President+of+Innoverse+Club" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Welcome+To+My+Grand+Line+Adventure+🏴‍☠️;AI+%26+Full+Stack+Developer;Building+Smart+Projects+For+The+Future;President+of+Innoverse+Club;Dream.+Build.+Innovate." />
 </p>
 
 ---
 
 <!-- ========================================= -->
-<!--             BANNER / PHOTO               -->
+<!--              MAIN BANNER                 -->
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="YOUR_BANNER_OR_GIF_LINK" width="100%" />
+  <img src="https://i.pinimg.com/1200x/99/75/c2/9975c2ddff69bc59ae34d4c8dc9f8189.jpg" width="100%">
 </p>
 
 <!-- 
 IDEAS:
-- Coding GIF
-- Cyberpunk workspace
-- Purple neon animation
-- Your custom portfolio banner
+- One Piece crew banner
+- Luffy aesthetic
+- Thousand Sunny
+- Purple/orange anime banner
 -->
 
+
 ---
 
-# 💫 About Me
+# ☠️ About Me
 
-<img align="right" alt="coding" width="320" src="YOUR_SIDE_GIF_OR_PHOTO">
+<img align="right" width="220" src="https://i.pinimg.com/736x/14/20/fd/1420fdb2c1b84a55bc9a61e3050b0fa5.jpg">
 
-🚀 Passionate about building impactful digital experiences through  
-AI, Full Stack Development, and innovative technologies.
+🏴‍☠️ A passionate developer sailing through the Grand Line of technology.
 
 - 🎓 Software Engineering Student at ENIAD Berkane  
-- 🚁 Founder of **Fly Pack** — Smart drone-based healthcare logistics platform  
-- 👩‍💼 Former Secretary General & Current President of **Innoverse Club**  
-- 💡 Interested in AI, Software Architecture & Scalable Systems  
-- 🛠️ Building solutions for education, healthcare & innovation  
-- 🌱 Currently improving my skills in AI Engineering & Cloud Technologies  
+- 👩‍💼 President of **Innoverse Club**  
+- 💡 Passionate about AI, Software Engineering & Innovation  
+- ⚔️ Building impactful solutions for healthcare & education  
+- 🌊 Exploring Full Stack, Cloud & Intelligent Systems
+- 🌱 Currently improving my skills in AI Engineering & DevOps 
 
 ---
 
-# 🌐 Connect With Me
+# 🗺️ Connect With Me
 
 <p align="center">
 
 <a href="https://instagram.com/mar_imo22">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mariam-fahim-68665b26b">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mariamfahim.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mariam.fahim.2003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚁 Fly Pack
-Smart healthcare logistics platform using drones, real-time stock management & mobile technologies.
-
-</td>
-
-<td width="50%">
-
-### 📚 Smart Library System
-Digital university library management system with authentication, reservations & recommendation system.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎓 Attendance Platform
-Modern attendance and academic management platform for educational institutions.
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI & Data Projects
-Machine learning, data analysis & intelligent system development projects.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🖼️ Gallery / Photos
+# 📸 Adventure Memories
 
 <p align="center">
-  <img src="YOUR_IMAGE_1" width="30%" />
-  <img src="YOUR_IMAGE_2" width="30%" />
-  <img src="YOUR_IMAGE_3" width="30%" />
+  <img src="YOUR_IMAGE_1" width="30%">
+  <img src="YOUR_IMAGE_2" width="30%">
+  <img src="YOUR_IMAGE_3" width="30%">
 </p>
 
 <!-- 
-YOU CAN ADD:
+ADD:
 - Hackathon photos
-- Event organization photos
-- Workshop photos
+- Club events
 - Coding setup
-- Innoverse activities
+- Conference photos
+- One Piece themed edits
 -->
 
 ---
 
-# 💻 Tech Stack
+# ⚔️ Weapons & Powers (Tech Stack)
 
-## 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🌊 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-## ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+## 🔥 Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
 
-## 🧠 AI & Data
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## 🧠 Devil Fruit Powers (AI & Data)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-## 🗄️ Database
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## 🏴‍☠️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma)
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-</p>
+# ☠️ Pirate Quote
 
 <h3 align="center">
-✨ Turning Ideas Into Real Impact ✨
+
+_"Inherited Will, The Destiny of the Age, and The Dreams of People..."_ 🌊
+
 </h3>
